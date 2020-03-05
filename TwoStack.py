@@ -1,4 +1,4 @@
-# @File  : 使用一个数组实现两个栈.py
+# @File  : TwoStack.py
 # @Author: Magic Huang
 # @GitHub: github.com/MH-Blog
 # @Date  : 2020/3/5
