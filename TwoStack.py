@@ -107,3 +107,15 @@ if __name__ == '__main__':
 
     print(stack.r_pop())  # 栈2取出一个元素
     print(stack.stack)
+
+"""
+True
+True
+[1, 2, None, None, 10]
+2
+[1, None, None, None, 10]
+[1, 2, 3, 4, 5, None, None, None, None, 10]
+[1, 2, 3, 4, 5, None, 7, 8, 9, 10]
+7
+[1, 2, 3, 4, 5, None, None, 8, 9, 10]
+"""
